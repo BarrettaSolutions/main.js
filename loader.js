@@ -1,6 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
-<script src="https://raw.githubusercontent.com/BarrettaSolutions/main.js/main/loader.js"></script>
-
 // RAW-Link deiner verschlüsselten main.js
 const MAIN_JS_URL = "https://raw.githubusercontent.com/BarrettaSolutions/main.js/main/main.js";
 
