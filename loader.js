@@ -2,7 +2,7 @@
 const MAIN_JS_URL = "https://raw.githubusercontent.com/BarrettaSolutions/main.js/main/main.js";
 
 // URL zu deinem Key-Server (Apps Script)
-const KEY_SERVER_URL = "https://script.google.com/macros/s/AKfycbyEJTzvf0Kcn2EOStFICnF3b_yLdwohKdTyATsCcphRD7M_x4MNC-m9MMzsTN_sjrwt/exec?action=getKey";
+const KEY_SERVER_URL = "https://script.google.com/macros/s/AKfycbzrljO7yfYpwry3da9umT043nNORRV6igVY86blgcqkOP15yKUPBB3vHQZsQoBH8kYw/exec?action=getKey";
 
 // Lade den Key vom Server
 async function getKey() {
